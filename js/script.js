@@ -14,10 +14,10 @@ function estourar(elemento) {
 	document.body.removeChild(elemento);
 }
 
-function iniciar() {
+/*function iniciar() {
 	setInterval(addBola, 1000);
 }
-
+*/
 
 
 
